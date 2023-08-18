@@ -14,8 +14,8 @@ gcc -o Client.exe Client.c
 ```
 
 
-Port number:      50300  
-File to transfer: test.txt
+**Port number:**      50300  
+**File to transfer:** test.txt
 
 Server.c accepts three parameters: 
 a port number, and the file name that the transferred file will be stored as.
@@ -28,7 +28,7 @@ gcc -o Server.exe Server.c
 ```
 
 
-Port number:       50300  
-File to save to:   transferred_file.txt
+**Port number:**       50300  
+**File to save to:**   transferred_file.txt
 
 NOTE: For this to work, both programs need to have the same port number specified.
