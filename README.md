@@ -4,7 +4,7 @@ A simple file transfer program written in the C language.
 
 ## Example usage:
 
-Client.c accepts two parameters, a port number, the server's IP address,
+Client.c accepts two parameters, the server's IP address, a port number,
 and the file you wish to transfer to the server.
 
 ### Compiling and using Client.c:
